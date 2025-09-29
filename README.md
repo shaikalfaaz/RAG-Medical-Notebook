@@ -1,2 +1,2 @@
 # RAG-Medical-Notebook
-Simple QA RAG on Diseases
+Simple Q/A RAG on Diseases
